@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//TahirBangash.github.io/react_real_time_weather_app/static/css/main.a0a1b9be.css",
-    "main.js": "/https//TahirBangash.github.io/react_real_time_weather_app/static/js/main.7bc755df.js",
-    "static/js/787.9ef751b4.chunk.js": "/https//TahirBangash.github.io/react_real_time_weather_app/static/js/787.9ef751b4.chunk.js",
-    "index.html": "/https//TahirBangash.github.io/react_real_time_weather_app/index.html",
-    "main.a0a1b9be.css.map": "/https//TahirBangash.github.io/react_real_time_weather_app/static/css/main.a0a1b9be.css.map",
-    "main.7bc755df.js.map": "/https//TahirBangash.github.io/react_real_time_weather_app/static/js/main.7bc755df.js.map",
-    "787.9ef751b4.chunk.js.map": "/https//TahirBangash.github.io/react_real_time_weather_app/static/js/787.9ef751b4.chunk.js.map"
+    "main.css": "/react_real_time_weather_app/static/css/main.5c8aa5b0.css",
+    "main.js": "/react_real_time_weather_app/static/js/main.17d1fe3b.js",
+    "static/js/787.9ef751b4.chunk.js": "/react_real_time_weather_app/static/js/787.9ef751b4.chunk.js",
+    "index.html": "/react_real_time_weather_app/index.html",
+    "main.5c8aa5b0.css.map": "/react_real_time_weather_app/static/css/main.5c8aa5b0.css.map",
+    "main.17d1fe3b.js.map": "/react_real_time_weather_app/static/js/main.17d1fe3b.js.map",
+    "787.9ef751b4.chunk.js.map": "/react_real_time_weather_app/static/js/787.9ef751b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0a1b9be.css",
-    "static/js/main.7bc755df.js"
+    "static/css/main.5c8aa5b0.css",
+    "static/js/main.17d1fe3b.js"
   ]
 }
