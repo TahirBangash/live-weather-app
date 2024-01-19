@@ -1,7 +1,7 @@
 {
   "name": "react_real_time_weather_app",
   "version": "0.1.0",
-  "homepage": "https//TahirBangash.github.io/react_real_time_weather_app",
+  "homepage": "https://tahirbangash.github.io/react_real_time_weather_app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
