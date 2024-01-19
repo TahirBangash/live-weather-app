@@ -1,0 +1,151 @@
+.weather-stats {
+  width: 780px;
+  height: 330px;
+  flex-grow: 0;
+  background-color: #444;
+  color: white;
+  padding: 20px;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif;
+  box-shadow: 8px 8px 10px rgb(5, 5, 5);
+}
+
+.temperature {
+  width: 204px;
+  height: 77px;
+  flex-shrink: 0;
+  font-family: 'Poppins', sans-serif;
+  font-size: 80px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  background: linear-gradient(84deg, #FFF -16.56%, rgba(255, 255, 255, 0.00) 118.43%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.feels-like {
+  width: 97.262px;
+  height: 30.512px;
+  flex-shrink: 0;
+  color: rgba(255, 255, 255, 0.80);
+
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+;
+}
+
+.description {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.2em;
+  margin: 10px 0;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.sun-times {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+  justify-content: space-between;
+  padding-left: 15px;
+}
+
+.sun-rise-set{
+  display: flex;
+  flex-direction: row;
+  gap:7px;
+}
+
+.details-whole{
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  width: 247px;
+  height: 328px;
+  flex-shrink: 0;
+  justify-content: center;
+  align-items: center;
+}
+
+.details-1 {
+  display: flex;
+  flex-direction: row;
+  gap:30px;
+}
+
+.details-2 {
+  display: flex;
+  flex-direction: row;
+  gap:40px;
+}
+
+.alt-weather-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 9px;
+
+}
+.vert-stack{
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+
+.space-between{
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.sun-rise-set-text{
+  color: #FFF;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.sun-rise-set-value{
+  color: #FFF;
+
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal; 
+}
+.alt-t1{
+  color: #FFF;
+
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.alt-t2{
+  color: #FFF;
+
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}

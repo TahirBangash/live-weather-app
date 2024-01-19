@@ -1,0 +1,21 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  background: transparent;
+  padding: 40px;
+  justify-content: center;
+  align-items: center;
+
+
+  
+}
+
+.widget-container{
+  display: flex;
+  gap: 40px;
+
+}
+
+
+

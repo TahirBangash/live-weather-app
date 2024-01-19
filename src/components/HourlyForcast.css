@@ -1,0 +1,57 @@
+.hourly-forecast-container {
+    width: 870px;
+    height: 366px;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #444; 
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 8px 8px 10px rgb(5, 5, 5);
+  }
+  
+  .hourly-title {
+    color: #FFF;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+  }
+  
+  .hour-forecast {
+    display: flex;
+    flex-direction: column;
+    width: 130px;
+    height: 270px;
+    flex-shrink: 0;
+    border-radius: 40px;
+    background: #373636;
+    align-items: center;
+    gap: 10px; /* Adjust gap as needed */
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .hourly-time, .hourly-temp, .hourly-wind {
+    color: #FFF;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  
+  .weather-icon {
+    width: 60px;
+    height: 60px;
+  }
+
+ .wind-icon{
+    width: 30px;
+    height: 30px;
+ }
+
+.widget-box{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
