@@ -13,7 +13,8 @@ The React Real-Time Weather App is a dynamic, user-friendly application that pro
 ## Technologies Used
 - **React**: Utilized for its efficiency and flexibility in building user interfaces.
 - **WeatherAPI.com**: Integrated for fetching real-time, reliable weather data.
-- **Additional Libraries/Tools**: (List any other libraries or tools used, like Axios for API calls, React Router for routing, etc.)
+- **Axios**: Utilized for making API requests to fetch weather data from WeatherAPI.com. Axios provides a clean and simple way to handle asynchronous HTTP requests.
+- **Figma**: Used for the UI/UX design. Figma is a powerful design tool that helped in creating a user-friendly and visually appealing interface for the app.
 
 ## Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
