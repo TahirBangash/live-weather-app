@@ -2,7 +2,7 @@
   display: flex;
   flex-direction: column;
   gap: 35px;
-  background: transparent;
+  background: linear-gradient(110deg, #474747, rgb(0, 0, 0)120%);;
   padding: 40px;
   justify-content: center;
   align-items: center;
